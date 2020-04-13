@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: loy-provider
+
+provider:
+  loy:
+    name: loy-provider
